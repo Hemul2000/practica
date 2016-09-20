@@ -1,0 +1,82 @@
+*
+{margin: 0;padding: 0;}
+.header {
+	width: 100%;
+	background: url(http://abali.ru/wp-content/uploads/2011/05/bookelement17.jpg); 
+	height: 70%;
+	}
+	
+
+.three{
+	float: left;
+	width: 70%;
+	background-color: #00FFFF;
+	height: 100%;
+}
+
+.two{
+	float: left;
+	width: 70%;
+	background-color: #fff;
+	margin-top: 10px;
+	
+
+}
+
+.four{
+	
+	float: right;
+	width: 30%;
+	background: #fff; 
+	height: 350px;
+	
+}
+
+.footer{
+	float: right; 
+	width: 100%;
+	position: relative;
+	background: url(http://abali.ru/wp-content/uploads/2011/05/bookelement17.jpg); 
+	height: 70px;
+	
+		}
+
+p{
+	font-size: 16px;
+	text-indent: 20px;
+	line-height: 20px;
+}
+
+p:first-letter {
+  font-size: 16px;
+  font-weight: 600;
+  color: red;
+  
+}
+
+h1{
+	font-size: 30px;
+	text-align: center;
+	color: #0C9136;
+	padding: 15px;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	padding: 20px;
+
+}
+
+h3{
+	font-size: 30px;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+hr{
+	color: #000;
+
+}
+
