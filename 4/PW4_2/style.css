@@ -1,0 +1,28 @@
+h1 {
+	text-align:center;
+	color: red;
+}
+
+h2{
+	text-align:center;
+	color: red;
+}
+
+a:link
+{
+color: #990000;
+font-weight: 100;
+text-decoration: none;
+}
+a:hover
+{
+color: #ff0033;
+font-weight: bold;
+text-decoration: underline;
+}
+a:active
+{
+color: #CC9933;
+font-weight: bold;
+text-decoration: underline;
+}
