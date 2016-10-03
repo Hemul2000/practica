@@ -3,10 +3,7 @@ h1{
 	text-align: center;
 }
 
-table {
-	border: 1px;
-	width: 100%;
-}
+
 
 td.hover_off:hover{background: #fff;}
 td:hover{background: #bbbbbb;}
