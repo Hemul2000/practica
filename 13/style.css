@@ -1,0 +1,32 @@
+body
+{
+	background: #0E65AC;
+}
+
+.slideodin 
+{
+	margin-top: 0 auto;
+	margin-top: 150px;
+	text-align: center;
+	
+}
+
+.slideodin img
+{
+	border: 10px solid #4B20A1;
+	border-radius: 20px;
+}
+
+.vpered a
+{
+	float: right;
+	padding-left: 50px;
+}
+
+.vpered a:hover
+{
+	font-size: 20px;
+	color: #fff;
+	
+
+}
