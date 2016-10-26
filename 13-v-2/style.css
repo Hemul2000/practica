@@ -4,22 +4,26 @@
 	padding: 0px;
 }
 
+
+/*Шапка сайта*/
 .headr
 {
 	width: 100%;
 	height: 120px;
 	background: #000;
 }
+/*END*/
 
+/*Логотип сайта в шапке*/
 .logo h1
 {
 	color: #fff;
 	padding-top: 20px;
 	padding-left: 30px;
 }
+/*END*/
 
-
-
+/*Блог слева*/
 .blog
 {
 	width: 130px;
@@ -29,21 +33,28 @@
 	background: #000;
 	float: left;
 }
+/*END*/
 
+
+/*Заголовок блока*/
 .blog h1
 {
 	color: #fff;
 	text-align: center;
 	padding-top: 10px;
 }
+/*END*/
 
+/*Текст блока*/
 .blog p
 {
 	color: #fff;
 	text-align: center;
 	font-size: 20px;
 }
+/*END*/
 
+/*Контент (Информация)*/
 .content
 {
 	float: right;
@@ -51,15 +62,18 @@
 	margin-top: 20px;
 	margin-right: 20px; 
 	width: 79%;
+	min-height: 150px;  
 	
 }
-
+/*END*/
 
 .clear
 {
 	clear: both;
 }
 
+
+/*Нижняя часть сайта*/
 .footer
 {
 	background: red;
@@ -68,10 +82,13 @@
     
     
 }
+/*END*/
 
+/*Название сайта в нижней части сайта*/
 .footer h1
 {
 	color: #fff;
 	margin-left: 30px;
 	
 }
+/*END*/
