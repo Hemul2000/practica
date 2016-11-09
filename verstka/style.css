@@ -1,0 +1,193 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+	background-color: #f8f8f3;
+}
+
+.header
+{
+ width:1000px;
+}
+
+.clear{clear:both;}
+
+.logo
+{
+	
+	height: 54px;
+	width: 184px;
+	background-color: #bf3a16;
+	margin-top: 20px;
+	margin-left: 40px;
+	float:left;
+}
+
+.logotext
+{
+	margin-top: 40px;
+	float:right;
+}
+
+.logo h1
+{
+	
+	text-align: center;
+	color: fff;
+	padding-top: 10px;
+}
+
+.logotext  h2
+{
+	
+	
+	padding-bottom: 10px;
+	color: #000;
+}
+
+.colortext 
+{
+	color: #792913;
+}
+
+.menu
+{
+	width: 102%;
+	height:	50px;
+	background: #ebe9d8;
+}
+
+.menushka
+{
+	margin-left: 109px;
+}
+
+ul
+{
+	list-style: none;
+	
+}
+
+.menushka li
+{
+
+	float: left;
+	margin-right: 90px;
+	font-size: 16px;
+	text-align: center;
+}
+
+.menushka li a
+{
+	display: block;
+	text-decoration: none;
+	color: #000;
+	padding: 15px;
+	
+} 
+
+.menushka li a:hover
+{
+	background: #d4c69c;
+	width: 90px;
+	color: #fff;
+}
+
+
+
+
+
+
+.textru
+{
+	margin-left: 110px;
+	margin-top: 50px;
+}
+
+
+
+.textru h3
+{
+	color: #9e6756;
+}
+
+.textru h2:first-of-type
+{
+	font-size:79px;
+	margin-left: 2px;
+	
+}
+
+
+.textru h2:last-of-type
+{
+	font-size: 79px;
+	margin-left: 30px;
+	color: #bf3a16;
+}
+
+
+.textru h4
+{
+	margin-left: 30px;
+}
+
+.img
+{
+	float: right;
+	margin-right: 90px;
+	margin-top: -210px;
+}
+
+.content
+{
+	
+	width: 100%;
+	background: #ebe9d8;
+}
+
+.odin h1
+{
+	float:left;
+	margin-left: 100px;
+	margin-bottom: 90px;
+	font-size: 20px;
+	
+}
+
+.odin 
+{
+	margin-left: 90px;
+}
+
+.odintext
+{
+	color: #792913;
+	font-size: 20px;
+}
+
+.imgname
+{
+	margin-top: 10px;
+}
+
+.name
+{
+	margin-top: -50px;
+	margin-left: 90px;
+}
+
+.sitename a
+{
+	margin-left: 90px;
+	color: #bf3a16;
+}
+
+.dva
+{
+	float: right;
+	margin-right: 450px;
+	padding-bottom: 300px;
+}
