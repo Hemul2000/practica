@@ -124,14 +124,16 @@ ul
 .textru h2:last-of-type
 {
 	font-size: 79px;
-	margin-left: 30px;
+	margin-left: 89px;
+	margin-top: -42px;
 	color: #bf3a16;
 }
 
 
 .textru h4
 {
-	margin-left: 30px;
+	margin-left: 95px;
+	margin-top: -20px;
 }
 
 .img
@@ -146,6 +148,7 @@ ul
 	
 	width: 100%;
 	background: #ebe9d8;
+	margin-bottom: 20px;
 }
 
 .odin h1
@@ -251,12 +254,24 @@ form INPUT
 {
 	float:right;
 	margin-right: 340px;
-	padding-top: -390px;
+	margin-top: -162px;
+
 }
 
 .info_try
 {
 	float: right;
-	margin-right: 20px;
-	margin-top: -320px;
+	margin-top: -162px;
 }
+
+.sylkas a
+{
+	color: #5b594c;
+}
+
+.cropyrait
+{
+	margin-left: 90px;
+	margin-top: -20px;
+}
+
