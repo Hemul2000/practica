@@ -160,6 +160,7 @@ ul
 .odin 
 {
 	margin-left: 90px;
+	padding-top: 10px;
 }
 
 .odintext
@@ -188,6 +189,66 @@ ul
 .dva
 {
 	float: right;
-	margin-right: 450px;
-	padding-bottom: 300px;
+	margin-right: 320px;
+	margin-top: -275px;
+}
+
+.try
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: -325px;
+}
+
+.serch
+{
+	background: #bf3a16;
+	margin-top: 20px;
+	color: #fff;
+	width: 190px;
+	height: 120px;
+	border-radius: 2px;
+	
+}
+
+
+
+form div:nth-child(3)
+{
+	margin-left: 10px;
+}
+
+form INPUT
+{
+	border-radius: 5px;
+}
+
+
+.serch a
+{
+	color: #fff;
+	
+}
+
+
+
+.knopka INPUT
+{
+	background: #f7931d;
+}
+
+.info
+{
+	background: #dad5bb;
+}
+
+.info_odin
+{
+	margin-left: 90px;
+}
+
+.info_dva
+{
+	float:right;
+	margin-right: 340px;
 }
