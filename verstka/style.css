@@ -251,4 +251,12 @@ form INPUT
 {
 	float:right;
 	margin-right: 340px;
+	padding-top: -390px;
+}
+
+.info_try
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: -320px;
 }
