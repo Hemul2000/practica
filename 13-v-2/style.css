@@ -1,94 +1,60 @@
 *
 {
-	margin: 0px;
-	padding: 0px;
+margin: 0;
+padding: 0;
 }
-
-
-/*Шапка сайта*/
-.headr
-{
-	width: 100%;
-	height: 120px;
-	background: #000;
-}
-/*END*/
-
-/*Логотип сайта в шапке*/
-.logo h1
-{
-	color: #fff;
-	padding-top: 20px;
-	padding-left: 30px;
-}
-/*END*/
-
-/*Блог слева*/
-.blog
-{
-	width: 130px;
-	height: 90%;
-	margin-left: 30px;
-	margin-top: 20px;
-	background: #000;
-	float: left;
-}
-/*END*/
-
-
-/*Заголовок блока*/
-.blog h1
-{
-	color: #fff;
-	text-align: center;
-	padding-top: 10px;
-}
-/*END*/
-
-/*Текст блока*/
-.blog p
-{
-	color: #fff;
-	text-align: center;
-	font-size: 20px;
-}
-/*END*/
-
-/*Контент (Информация)*/
-.content
-{
-	float: right;
-	background: green;
-	margin-top: 20px;
-	margin-right: 20px; 
-	width: 79%;
-	min-height: 150px;  
-	
-}
-/*END*/
 
 .clear
 {
-	clear: both;
+	clear:both;
 }
 
-
-/*Нижняя часть сайта*/
-.footer
+.head
 {
-	background: red;
-	width: 100%;
-	position: absolute; 
-    
-    
-}
-/*END*/
-
-/*Название сайта в нижней части сайта*/
-.footer h1
-{
-	color: #fff;
-	margin-left: 30px;
+	float: right;
+	width: 800px;
+	height: 100px;
+	background: #000;
 	
 }
-/*END*/
+
+.logo
+{	
+	margin-left: 40px;
+	padding-top: 25px;
+	color: #fff;
+}
+
+
+
+.menu
+{
+	float: right;
+	background: green;
+	width: 800px;
+	margin-top: 37px;
+}
+
+.menu li
+{
+	float: left; 
+	margin-left: 90px;
+	margin-top: 10px;
+	margin-right: 10px; 
+	list-style: none;
+}
+
+.menu li a:hover
+{
+	color: #000;
+	background: #fff;
+}
+
+.info
+{
+	float: left;
+	width: 225px;
+	height: 150px;
+	margin-top: -50px;
+	background: red;
+}
